@@ -16,7 +16,7 @@ This project is a QR Code generator written in Python, utilizing the `qrcode` an
 2. **Run the code**:
    Execute the script in your terminal or command prompt:
    ```sh
-   python qrcode_generator.py
+   python main.py
    ```
 
 3. **Input the link**:
