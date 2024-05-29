@@ -1,0 +1,5 @@
+# Ignorar o arquivo QrCodeImage.png
+QrCodeImage.png
+
+# Ignorar a pasta venv
+venv/
